@@ -22,7 +22,7 @@
 
 ## Cài đặt
 
-1. Clone repository: git clone https://github.com/giacuong333/geek-test.git
+1. Clone repository: git clone https://github.com/giacuong333/geekup-test.git
 2. cd geek-test
 3. Cài đặt dependencies: yarn install
 4. Khởi động server phát triển: yarn dev
