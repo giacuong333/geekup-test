@@ -44,15 +44,15 @@
 
 ## Cấu trúc dự án
 
-src/: Mã nguồn.
-components/: Component React tái sử dụng.
-layout/: Layout admin.
-contexts/: Chứa các phương thức dùng lại nhiều lần.
-apis/: Chứa các apis
-paths/: Chứa các path
-routes: Định nghĩa route tương ứng với layout đúng với path
-styles/: TailwindCSS và style tùy chỉnh.
-public/: Tài nguyên tĩnh.
+- src/: Mã nguồn.
+- components/: Component React tái sử dụng.
+- layout/: Layout admin.
+- contexts/: Chứa các phương thức dùng lại nhiều lần.
+- apis/: Chứa các apis
+- paths/: Chứa các path
+- routes: Định nghĩa route tương ứng với layout đúng với path
+- styles/: TailwindCSS và style tùy chỉnh.
+- public/: Tài nguyên tĩnh.
 
 Ảnh minh họa cấu trúc dự án:
 ![Alt text](/images/Cấu%20trúc%20của%20Project.png)
