@@ -55,4 +55,4 @@ styles/: TailwindCSS và style tùy chỉnh.
 public/: Tài nguyên tĩnh.
 
 Ảnh minh họa cấu trúc dự án:
-[!Alt text](/images/Cấu%20trúc%20của%20Project.png)
+![Alt text](/images/Cấu%20trúc%20của%20Project.png)
